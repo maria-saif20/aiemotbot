@@ -1,0 +1,15 @@
+/* Set border radius for images */
+img {
+    border-radius: 10px;
+}
+
+/* Set background gradient for the entire app */
+.stApp {
+    background: linear-gradient(to bottom, rgba(255, 165, 0, 1) 0%, rgba(255, 192, 203, 1) 100%);
+    /* You can adjust the colors as per your preference */
+}
+
+/* Hide the second item in unordered lists */
+ul li:nth-child(2) {
+    display: none;
+}
