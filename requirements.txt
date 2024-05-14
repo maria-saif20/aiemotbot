@@ -9,7 +9,7 @@ langchain-groq
 langchain-openai
 Pillow
 pydantic
-pypdf
+pypdf2
 python-dotenv
 python-pptx
 requests
