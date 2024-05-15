@@ -90,5 +90,5 @@ To install AIEMOTBOT and its dependencies, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/AIEMOTBOT.git
+   git clone https://github.com/maria-saif20/AIEMOTBOT.git
    cd AIEMOTBOT
