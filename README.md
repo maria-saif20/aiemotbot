@@ -17,7 +17,7 @@ AIEMOTBot is a Python-based project designed for voice-to-text generation and em
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/AIEMOTBot.git
+    git clone https://github.com/maria-saif20/AIEMOTBot.git
     cd AIEMOTBot
     ```
 
